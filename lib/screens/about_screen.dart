@@ -134,7 +134,7 @@ class AboutScreen extends StatelessWidget {
               child: InkWell(
                 borderRadius: BorderRadius.circular(16),
                 onTap: () => _launchUrl(
-                    'https://github.com/yusfmhamad/electricity-bill-app'),
+                    'https://github.com/yusfmhamad/electricity_bill_app.git'),
                 child: Padding(
                   padding: const EdgeInsets.all(16),
                   child: Row(
@@ -159,7 +159,7 @@ class AboutScreen extends StatelessWidget {
                                     fontWeight: FontWeight.bold,
                                     color: AppTheme.primaryColor,
                                     fontSize: 16)),
-                            Text('github.com/yusfmhamad/electricity-bill-app',
+                            Text('https://github.com/yusfmhamad/electricity_bill_app.git',
                                 style: TextStyle(
                                     color: AppTheme.textSecondary,
                                     fontSize: 12)),
