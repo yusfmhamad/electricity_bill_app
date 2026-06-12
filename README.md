@@ -36,7 +36,7 @@ A Flutter Android application for estimating monthly electricity bills based on 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yusfmhamad/electricity-bill-app.git
+   git clone https://github.com/yusfmhamad/electricity_bill_app.git
    cd electricity-bill-app
    ```
 
